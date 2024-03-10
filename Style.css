@@ -1,12 +1,12 @@
 .bgmi
 {
-    background-image: url("image/image1.jpg");
+    background-image: url("image1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 .image
 {
-    background-image: url("image/IMG_2318.JPG");
+    background-image: url("IMG_2318.JPG");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -39,7 +39,7 @@
   }
   .footer
   {
-    background-image: url("image/image1.jpg");
+    background-image: url("image1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
