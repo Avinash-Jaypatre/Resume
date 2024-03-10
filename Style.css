@@ -1,0 +1,48 @@
+.bgmi
+{
+    background-image: url("image/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image
+{
+    background-image: url("image/IMG_2318.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  .col1
+  {
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  .colo2
+  {
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  .colo3
+  {
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  .footer
+  {
+    background-image: url("image/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+  
+  
